@@ -3,3 +3,5 @@
 *.css linguist-language=Python
 
 *.html linguist-language=Python
+
+*.md linguist-language=Python
